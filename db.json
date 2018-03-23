@@ -1,13 +1,11 @@
-[
-  {
-   "name": "Joe",
-"photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
-   
-  },
-  {"name": "Joe",
-   "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
-    
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-
-  
-]
+}
